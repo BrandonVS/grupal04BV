@@ -1,0 +1,16 @@
+Por cada línea del archivo generar un archivo que tenga:
+nombre del archivo: Name.txt
+cueropo del archivo:
+Name
+FIFA Display:
+Country:
+Last Name:
+First Name:
+Shirt Name:
+DOB:
+POS:
+Club:
+Height:
+Caps:
+Goals
+
