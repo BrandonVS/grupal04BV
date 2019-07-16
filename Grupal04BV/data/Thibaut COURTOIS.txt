@@ -1,0 +1,12 @@
+Name: Thibaut COURTOIS
+FIFA Display: 1
+Country: Belgium
+Last Name: COURTOIS
+First Name: Thibaut Nicolas
+Shirt Name: COURTOIS
+DOB: 11.05.1992
+POS: GK
+Club: Chelsea (ENG)
+Height: 199
+Caps: 58
+Goals: 0

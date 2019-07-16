@@ -1,0 +1,12 @@
+Name: Vincent KOMPANY
+FIFA Display: 4
+Country: Belgium
+Last Name: KOMPANY
+First Name: Vincent Jean
+Shirt Name: KOMPANY
+DOB: 10.04.1986
+POS: DF
+Club: Manchester City (ENG)
+Height: 190
+Caps: 77
+Goals: 4

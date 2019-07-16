@@ -1,0 +1,12 @@
+Name: Michy BATSHUAYI
+FIFA Display: 21
+Country: Belgium
+Last Name: BATSHUAYI TUNGA
+First Name: Michy
+Shirt Name: BATSHUAYI
+DOB: 02.10.1993
+POS: FW
+Club: Borussia Dortmund (GER)
+Height: 185
+Caps: 16
+Goals: 7

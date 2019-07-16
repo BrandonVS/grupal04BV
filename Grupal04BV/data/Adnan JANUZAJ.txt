@@ -1,0 +1,12 @@
+Name: Adnan JANUZAJ
+FIFA Display: 18
+Country: Belgium
+Last Name: JANUZAJ
+First Name: Adnan
+Shirt Name: JANUZAJ
+DOB: 05.02.1995
+POS: FW
+Club: Real Sociedad (ESP)
+Height: 180
+Caps: 8
+Goals: 0

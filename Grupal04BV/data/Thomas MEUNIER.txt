@@ -1,0 +1,12 @@
+Name: Thomas MEUNIER
+FIFA Display: 15
+Country: Belgium
+Last Name: MEUNIER
+First Name: Thomas
+Shirt Name: MEUNIER
+DOB: 12.09.1991
+POS: DF
+Club: Paris Saint-Germain (FRA)
+Height: 190
+Caps: 25
+Goals: 5

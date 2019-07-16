@@ -1,0 +1,12 @@
+Name: Eden HAZARD
+FIFA Display: 10
+Country: Belgium
+Last Name: HAZARD
+First Name: Eden Michael
+Shirt Name: E. HAZARD
+DOB: 07.01.1991
+POS: FW
+Club: Chelsea (ENG)
+Height: 173
+Caps: 86
+Goals: 22

@@ -1,0 +1,12 @@
+Name: Dries MERTENS
+FIFA Display: 14
+Country: Belgium
+Last Name: MERTENS
+First Name: Dries
+Shirt Name: MERTENS
+DOB: 06.05.1987
+POS: FW
+Club: SSC Napoli (ITA)
+Height: 169
+Caps: 69
+Goals: 14

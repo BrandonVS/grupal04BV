@@ -1,0 +1,12 @@
+Name: Dedryck BOYATA
+FIFA Display: 20
+Country: Belgium
+Last Name: BOYATA
+First Name: Dedryck Anga
+Shirt Name: BOYATA
+DOB: 28.11.1990
+POS: DF
+Club: Celtic (SCO)
+Height: 188
+Caps: 7
+Goals: 0

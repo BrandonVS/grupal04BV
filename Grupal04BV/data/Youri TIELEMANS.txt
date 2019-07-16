@@ -1,0 +1,12 @@
+Name: Youri TIELEMANS
+FIFA Display: 17
+Country: Belgium
+Last Name: TIELEMANS
+First Name: Youri
+Shirt Name: TIELEMANS
+DOB: 07.05.1997
+POS: MF
+Club: AS Monaco (FRA)
+Height: 176
+Caps: 9
+Goals: 0

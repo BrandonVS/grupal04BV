@@ -1,0 +1,12 @@
+Name: Simon MIGNOLET
+FIFA Display: 12
+Country: Belgium
+Last Name: MIGNOLET
+First Name: Simon Luc
+Shirt Name: MIGNOLET
+DOB: 06.03.1988
+POS: GK
+Club: Liverpool (ENG)
+Height: 193
+Caps: 21
+Goals: 0

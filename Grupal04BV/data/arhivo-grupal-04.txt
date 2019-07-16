@@ -1,0 +1,24 @@
+1|Thibaut COURTOIS|Belgium|COURTOIS|Thibaut Nicolas|COURTOIS|11.05.1992|GK|Chelsea (ENG)|199|58|0|
+2|Toby ALDERWEIRELD|Belgium|ALDERWEIRELD|Toby Albertine|ALDERWEIRELD|02.03.1989|DF|Tottenham Hotspur (ENG)|186|77|3|
+3|Thomas VERMAELEN|Belgium|VERMAELEN|Thomas|VERMAELEN|14.11.1985|DF|FC Barcelona (ESP)|183|66|1|
+4|Vincent KOMPANY|Belgium|KOMPANY|Vincent Jean|KOMPANY|10.04.1986|DF|Manchester City (ENG)|190|77|4|
+5|Jan VERTONGHEN|Belgium|VERTONGHEN|Jan Bert|VERTONGHEN|24.04.1987|DF|Tottenham Hotspur (ENG)|189|102|8|
+6|Axel WITSEL|Belgium|WITSEL|Axel Laurent|WITSEL|12.01.1989|MF|Tianjin Quanjian Football Club (CHN)|186|90|9|
+7|Kevin DE BRUYNE|Belgium|DE BRUYNE|Kevin|DE BRUYNE|28.06.1991|MF|Manchester City (ENG)|181|62|14|
+8|Marouane FELLAINI|Belgium|FELLAINI-BAKKIOUI|Marouane|FELLAINI|22.11.1987|MF|Manchester United (ENG)|194|82|17|
+9|Romelu LUKAKU|Belgium|LUKAKU BOLINGOLI|Romelu|R. LUKAKU|13.05.1993|FW|Manchester United (ENG)|190|69|36|
+10|Eden HAZARD|Belgium|HAZARD|Eden Michael|E. HAZARD|07.01.1991|FW|Chelsea (ENG)|173|86|22|
+11|Yannick CARRASCO|Belgium|FERREIRA CARRASCO|Yannick|CARRASCO|04.09.1993|MF|Dalian Yifang Football Club (CHN)|180|26|5|
+12|Simon MIGNOLET|Belgium|MIGNOLET|Simon Luc|MIGNOLET|06.03.1988|GK|Liverpool (ENG)|193|21|0|
+13|Koen CASTEELS|Belgium|CASTEELS|Koen|CASTEELS|25.06.1992|GK|VfL Wolfsburg (GER)|197|0|0|
+14|Dries MERTENS|Belgium|MERTENS|Dries|MERTENS|06.05.1987|FW|SSC Napoli (ITA)|169|69|14|
+15|Thomas MEUNIER|Belgium|MEUNIER|Thomas|MEUNIER|12.09.1991|DF|Paris Saint-Germain (FRA)|190|25|5|
+16|Thorgan HAZARD|Belgium|HAZARD|Thorgan Ganael Francis|T. HAZARD|29.03.1993|MF|Borussia Moenchengladbach (GER)|174|11|1|
+17|Youri TIELEMANS|Belgium|TIELEMANS|Youri|TIELEMANS|07.05.1997|MF|AS Monaco (FRA)|176|9|0|
+18|Adnan JANUZAJ|Belgium|JANUZAJ|Adnan|JANUZAJ|05.02.1995|FW|Real Sociedad (ESP)|180|8|0|
+19|Moussa DEMBELE|Belgium|DEMBELE|Moussa Sidi Yaya|DEMBELE|16.07.1987|MF|Tottenham Hotspur (ENG)|185|76|5|
+20|Dedryck BOYATA|Belgium|BOYATA|Dedryck Anga|BOYATA|28.11.1990|DF|Celtic (SCO)|188|7|0|
+21|Michy BATSHUAYI|Belgium|BATSHUAYI TUNGA|Michy|BATSHUAYI|02.10.1993|FW|Borussia Dortmund (GER)|185|16|7|
+22|Nacer CHADLI|Belgium|CHADLI|Nacer|CHADLI|02.08.1989|MF|West Bromwich Albion FC (ENG)|187|45|5|
+23|Leander DENDONCKER|Belgium|DENDONCKER|Leander|DENDONCKER|15.04.1995|DF|Anderlecht (BEL)|188|5|0|
+

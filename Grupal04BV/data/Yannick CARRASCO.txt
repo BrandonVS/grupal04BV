@@ -1,0 +1,12 @@
+Name: Yannick CARRASCO
+FIFA Display: 11
+Country: Belgium
+Last Name: FERREIRA CARRASCO
+First Name: Yannick
+Shirt Name: CARRASCO
+DOB: 04.09.1993
+POS: MF
+Club: Dalian Yifang Football Club (CHN)
+Height: 180
+Caps: 26
+Goals: 5

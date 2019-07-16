@@ -1,0 +1,12 @@
+Name: Thomas VERMAELEN
+FIFA Display: 3
+Country: Belgium
+Last Name: VERMAELEN
+First Name: Thomas
+Shirt Name: VERMAELEN
+DOB: 14.11.1985
+POS: DF
+Club: FC Barcelona (ESP)
+Height: 183
+Caps: 66
+Goals: 1

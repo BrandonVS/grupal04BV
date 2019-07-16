@@ -1,0 +1,12 @@
+Name: Moussa DEMBELE
+FIFA Display: 19
+Country: Belgium
+Last Name: DEMBELE
+First Name: Moussa Sidi Yaya
+Shirt Name: DEMBELE
+DOB: 16.07.1987
+POS: MF
+Club: Tottenham Hotspur (ENG)
+Height: 185
+Caps: 76
+Goals: 5

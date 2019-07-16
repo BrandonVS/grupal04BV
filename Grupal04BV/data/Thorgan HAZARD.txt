@@ -1,0 +1,12 @@
+Name: Thorgan HAZARD
+FIFA Display: 16
+Country: Belgium
+Last Name: HAZARD
+First Name: Thorgan Ganael Francis
+Shirt Name: T. HAZARD
+DOB: 29.03.1993
+POS: MF
+Club: Borussia Moenchengladbach (GER)
+Height: 174
+Caps: 11
+Goals: 1

@@ -1,0 +1,12 @@
+Name: Jan VERTONGHEN
+FIFA Display: 5
+Country: Belgium
+Last Name: VERTONGHEN
+First Name: Jan Bert
+Shirt Name: VERTONGHEN
+DOB: 24.04.1987
+POS: DF
+Club: Tottenham Hotspur (ENG)
+Height: 189
+Caps: 102
+Goals: 8

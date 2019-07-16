@@ -1,0 +1,12 @@
+Name: Kevin DE BRUYNE
+FIFA Display: 7
+Country: Belgium
+Last Name: DE BRUYNE
+First Name: Kevin
+Shirt Name: DE BRUYNE
+DOB: 28.06.1991
+POS: MF
+Club: Manchester City (ENG)
+Height: 181
+Caps: 62
+Goals: 14

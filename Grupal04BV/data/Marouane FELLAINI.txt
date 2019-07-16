@@ -1,0 +1,12 @@
+Name: Marouane FELLAINI
+FIFA Display: 8
+Country: Belgium
+Last Name: FELLAINI-BAKKIOUI
+First Name: Marouane
+Shirt Name: FELLAINI
+DOB: 22.11.1987
+POS: MF
+Club: Manchester United (ENG)
+Height: 194
+Caps: 82
+Goals: 17

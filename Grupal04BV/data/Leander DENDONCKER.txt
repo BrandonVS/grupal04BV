@@ -1,0 +1,12 @@
+Name: Leander DENDONCKER
+FIFA Display: 23
+Country: Belgium
+Last Name: DENDONCKER
+First Name: Leander
+Shirt Name: DENDONCKER
+DOB: 15.04.1995
+POS: DF
+Club: Anderlecht (BEL)
+Height: 188
+Caps: 5
+Goals: 0

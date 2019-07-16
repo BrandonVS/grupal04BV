@@ -1,0 +1,12 @@
+Name: Koen CASTEELS
+FIFA Display: 13
+Country: Belgium
+Last Name: CASTEELS
+First Name: Koen
+Shirt Name: CASTEELS
+DOB: 25.06.1992
+POS: GK
+Club: VfL Wolfsburg (GER)
+Height: 197
+Caps: 0
+Goals: 0

@@ -1,0 +1,12 @@
+Name: Nacer CHADLI
+FIFA Display: 22
+Country: Belgium
+Last Name: CHADLI
+First Name: Nacer
+Shirt Name: CHADLI
+DOB: 02.08.1989
+POS: MF
+Club: West Bromwich Albion FC (ENG)
+Height: 187
+Caps: 45
+Goals: 5

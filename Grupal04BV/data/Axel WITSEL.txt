@@ -1,0 +1,12 @@
+Name: Axel WITSEL
+FIFA Display: 6
+Country: Belgium
+Last Name: WITSEL
+First Name: Axel Laurent
+Shirt Name: WITSEL
+DOB: 12.01.1989
+POS: MF
+Club: Tianjin Quanjian Football Club (CHN)
+Height: 186
+Caps: 90
+Goals: 9

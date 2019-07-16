@@ -1,0 +1,12 @@
+Name: Romelu LUKAKU
+FIFA Display: 9
+Country: Belgium
+Last Name: LUKAKU BOLINGOLI
+First Name: Romelu
+Shirt Name: R. LUKAKU
+DOB: 13.05.1993
+POS: FW
+Club: Manchester United (ENG)
+Height: 190
+Caps: 69
+Goals: 36
